@@ -1,3 +1,6 @@
 spring:
   application:
     name: filestreaming
+  threads:
+    virtual:
+      enabled: true
